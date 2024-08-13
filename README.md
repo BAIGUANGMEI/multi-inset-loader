@@ -8,7 +8,7 @@
 
 ### 第一步 安装
 
-    npm install vue-inset-loader --save-dev
+    npm i multi-inset-loader
 
 ### 第二步 vue.config.js注入loader
 
