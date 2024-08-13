@@ -1,0 +1,15 @@
+{
+  "name": "multi-inset-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BaiGuangMei",
+  "license": "ISC",
+  "dependencies": {
+    "vue-template-compiler": "^2.6.10",
+    "strip-json-comments": "^2.0.1"
+  }
+}
