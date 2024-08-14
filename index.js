@@ -6,7 +6,7 @@ const {
 	getPagesMap,
 	initPages,
 	getRoute
-} = require('./utils')
+} = require('../vue-inset-loader/utils')
 
 // 是否初始化过
 let _init = false
@@ -59,7 +59,6 @@ module.exports = function(content) {
 }
 
 function init(that){
-
 	needHandle =  initPages(that)
 	// 转换为路由和配置的映射对象
 	needHandle && (pagesMap = getPagesMap())

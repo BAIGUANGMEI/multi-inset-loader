@@ -1,6 +1,6 @@
 {
   "name": "multi-inset-loader",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "vue-template-compiler": "^2.6.10",
-    "strip-json-comments": "^2.0.1"
+    "strip-json-comments": "^2.0.1",
+    "vue-inset-loader": "^1.2.6"
   }
 }
